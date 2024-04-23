@@ -1,5 +1,8 @@
-- 👋 Hi, I’m @annane1337
-<!---
-annane1337/annane1337 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# <p align="center">👋 Hi People! 👋</p>
+
+
+<h1 align="center">I'm Hamza Annane 🧑‍💻</h1>
+
+<h3 align="center">A Software Engineering Student From Morocco 🇲🇦</h3>
+
+- 🔭 I’m passionate about programming, interested in Front/Back-End development.
